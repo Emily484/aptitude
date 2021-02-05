@@ -10,31 +10,48 @@ Aptitude is a company which provides educational and career guidance to their cl
 ### DynamoDB
 
 ## Features
-#### Employee can apply for TRMS
-#### Employee can view and submit their grades
-#### Employee can claim reimbursement on approved application
-#### Managerial role can accept application
-#### Managerial role can deny application
-#### BenCo can request grade submission
+*Employee can apply for TRMS
+
+*Employee can view and submit their grades
+
+*Employee can claim reimbursement on approved application
+
+*Managerial role can accept application
+
+*Managerial role can deny application
+
+*BenCo can request grade submission
 
 ### To-do list:
-#### Employee can include attachments to application
-#### Employee can view pending reimbursement balance
-#### Managerial role can request for more information from applicant
+*Employee can include attachments to application
+
+*Employee can view pending reimbursement balance
+
+*Managerial role can request for more information from applicant
 
 ## Getting Started
 In code editing terminal:
-#### git clone https://github.com/Emily484/aptitude.git
-#### cd aptitude/server
-#### add file '.env' with content: CLIENT = http://localhost:3001
-#### npm install
-#### npm run setup (requires AWS cli configuration)
-#### npm run start
-#### cd ../
-#### cd client
-#### add file '.env' with content: PORT = 3001
-#### npm install
-#### npm run start 
+*git clone https://github.com/Emily484/aptitude.git
+
+*cd aptitude/server
+
+*add file '.env' with content: CLIENT = http://localhost:3001
+
+*npm install
+
+*npm run setup (requires AWS cli configuration)
+
+*npm run start
+
+*cd ../
+
+*cd client
+
+*add file '.env' with content: PORT = 3001
+
+*npm install
+
+*npm run start 
 
 ## Usage
 ### Employee login:
