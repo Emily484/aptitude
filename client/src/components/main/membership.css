@@ -1,0 +1,15 @@
+.mem-card {
+    width: 20rem;
+}
+
+.mem-card-body {
+    padding: 3rem 0;
+}
+
+.container-fluid {
+    padding: 6rem 0;
+}
+
+h4 {
+    color: #4C565E;
+}

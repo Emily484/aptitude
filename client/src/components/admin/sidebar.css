@@ -1,0 +1,48 @@
+body {
+    background: radial-gradient(#e5e5e5, #fff, #e5e5e5);
+}
+
+.sidebar {
+    margin-top: -5px;
+    background-color: #688F99;
+    height: 600px;
+    color: #EDE7E0;
+    padding-left: 30px;
+}
+
+.user-options {
+    display: flex;
+    font-weight: bold;
+    padding-top: 40px;
+    font-size: 1.2rem;
+    padding-left: 20px;
+}
+
+.user-options-link {
+    display: flex;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-left: 20px;
+    font-size: 1.2rem;
+}
+
+.admin-icon {
+    display: flex;
+    padding-right: 15px;
+}
+
+.gr-admin-icon {
+    display: flex;
+    padding-right: 15px;
+    color: #e5e5e5;
+    stroke: #e5e5e5;
+}
+
+svg {
+    stroke: #e5e5e5;
+    fill: #e5e5e5;
+}
+
+.click {
+    cursor: pointer;
+}
